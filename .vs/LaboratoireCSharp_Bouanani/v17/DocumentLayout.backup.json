@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B10092C-501A-45E8-A8C1-44E1F8874280}|Labo1\\Labo1.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\labo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B10092C-501A-45E8-A8C1-44E1F8874280}|Labo1\\Labo1.csproj|solutionrelative:labo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\ipolygone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\ipolygone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\iestdans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\iestdans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\coordonnee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\coordonnee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|c:\\users\\bouan\\onedrive\\documents\\vpprojects\\laboratoirecsharp_bouanani\\myshapelibrary\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C277AF-7845-4D21-9206-15C0EE0FEB18}|MyShapeLibrary\\MyShapeLibrary.csproj|solutionrelative:myshapelibrary\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carre.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Carre.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\Carre.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Carre.cs",
+              "RelativeToolTip": "MyShapeLibrary\\Carre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:51:15.745Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Cercle.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\Cercle.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Cercle.cs",
+              "RelativeToolTip": "MyShapeLibrary\\Cercle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:53:00.429Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPolygone.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\IPolygone.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\IPolygone.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\IPolygone.cs",
+              "RelativeToolTip": "MyShapeLibrary\\IPolygone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:33:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Rectangle.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Rectangle.cs",
+              "RelativeToolTip": "MyShapeLibrary\\Rectangle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:01:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\Labo1\\Program.cs",
+              "RelativeDocumentMoniker": "Labo1\\Program.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\Labo1\\Program.cs",
+              "RelativeToolTip": "Labo1\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:24:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEstDans.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\IEstDans.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\IEstDans.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\IEstDans.cs",
+              "RelativeToolTip": "MyShapeLibrary\\IEstDans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:42:27.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Forme.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Forme.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\Forme.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Forme.cs",
+              "RelativeToolTip": "MyShapeLibrary\\Forme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:35:58.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coordonnee.cs",
+              "DocumentMoniker": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Coordonnee.cs",
+              "RelativeDocumentMoniker": "MyShapeLibrary\\Coordonnee.cs",
+              "ToolTip": "C:\\Users\\bouan\\OneDrive\\Documents\\VPProjects\\LaboratoireCSharp_Bouanani\\MyShapeLibrary\\Coordonnee.cs",
+              "RelativeToolTip": "MyShapeLibrary\\Coordonnee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:13:21.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\bin\Debug\net8.0\MyShapeLibrary.deps.json
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\bin\Debug\net8.0\MyShapeLibrary.dll
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\bin\Debug\net8.0\MyShapeLibrary.pdb
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\MyShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\MyShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\MyShapeLibrary.AssemblyInfo.cs
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\MyShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\MyShapeLibrary.dll
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\refint\MyShapeLibrary.dll
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\MyShapeLibrary.pdb
+C:\Users\bouan\OneDrive\Documents\VPProjects\LaboratoireCSharp_Bouanani\MyShapeLibrary\obj\Debug\net8.0\ref\MyShapeLibrary.dll
